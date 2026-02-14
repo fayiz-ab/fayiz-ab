@@ -1,7 +1,8 @@
-# Hi there ! I'm Fayiz, a Computer Science student at Paris Dauphine - PSL University.
+# Hi there, I'm Fayiz ! 👋
 
-I'm a bachelor student in Mathematics and Computer Science at Dauphine University in Paris. I'm passionate about AI and Data Science. 
-Feel free to explore my projects or provide feedback !
+### 🎓 Computer Science & Mathematics Student
 
+I am currently a 3rd-year undergraduate student (L3) in the **IM2D** program (Computer Science & Mathematics for Decision Making and Data) at **Université Paris-Dauphine - PSL**.
 
+My academic focus is at the intersection of **Software Engineering**, **Data Science**, and **Applied Mathematics**.
 
