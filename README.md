@@ -1,7 +1,7 @@
 # Hi there, I'm Fayiz ! 👋
 
 
-I am currently a 3rd-year undergraduate student (L3) in the IM2D program (Computer Science & Mathematics for Decision Making and Data) at Université Paris Dauphine-PSL.
+I am currently a 3rd-year undergraduate student (L3) in Computer Science & Mathematics at Université Paris Dauphine-PSL.
 
 My academic focus is at the intersection of Software Engineering, Data Science, and Applied Mathematics.
 
