@@ -8,5 +8,5 @@ My academic focus is at the intersection of **Software Engineering**, **Data Sci
 
 
 ---
-Connect with me on [LinkedIn]([LIEN_VERS_VOTRE_LINKEDIN](https://www.linkedin.com/in/fayizab/))
+Connect with me on [LinkedIn]([(https://www.linkedin.com/in/fayizab/)])
 
